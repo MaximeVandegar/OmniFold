@@ -3,7 +3,7 @@ import os
 
 import matplotlib.pyplot as plt
 import numpy as np
-import PyPDF2
+#import PyPDF2
 
 # function for creating axes in the MOD plot style
 def axes(ratio_plot=True, figsize=(4,4), gridspec_update=None,
